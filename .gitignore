@@ -1,0 +1,4 @@
+/hardhat/build/
+/hardhat/test/
+/hardhat/contracts/Migrations.sol
+/hardhat/truffle-config.js
