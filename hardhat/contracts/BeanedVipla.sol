@@ -2103,8 +2103,8 @@ contract BeanedVipla is ERC721A, Ownable, ReentrancyGuard {
 
   string public uri;
   string public uriSuffix = ".json";
-  uint256 public cost1 = 0.005 ether;
-  uint256 public cost2 = 0.01 ether;
+  uint256 public cost1 = 0.0066 ether;  // aprox $11
+  uint256 public cost2 = 0.01471 ether;  // aprox $25
   uint256 public supplyLimit = 11111;
   uint256 public maxMintAmountPerTx = 3;
   uint256 public maxLimitPerWallet = 6;

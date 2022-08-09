@@ -2,3 +2,5 @@
 /hardhat/test/
 /hardhat/contracts/Migrations.sol
 /hardhat/truffle-config.js
+/hardhat/node_modules/
+/hardhat/package-lock.json
