@@ -1,5 +1,5 @@
-const Migrations = artifacts.require("BeanedVipla");
+const beanedVipla = artifacts.require("BeanedVipla");
 
 module.exports = function (deployer) {
-  deployer.deploy(Migrations);
+  deployer.deploy(beanedVipla);
 };
